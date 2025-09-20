@@ -1,4 +1,4 @@
-# Amit's Creative Portfolio Website [(live)](https://profilepalette.vercel.app/)
+universal Avatars -Thepaulieffect  [(live)](https://profilepalette.vercel.app/)
 
 This is an open-source portfolio website template designed for developers who want a visually appealing, responsive and animated website without extensive custom development. You can easily use this template by copying the code and adding your own data to create a similar animated website showcasing your projects, contact information, about section, and social media links.
 
