@@ -10,12 +10,12 @@
   },
   "dependencies": {
     "@emailjs/browser": "^4.4.1",
-    "@react-three/drei": "^10.7.8",
-    "@react-three/fiber": "^9.7.0",
+    "@react-three/drei": "^10.7.9",
+    "@react-three/fiber": "^9.8.1",
     "clsx": "^2.1.1",
-    "framer-motion": "^13.4.0",
-    "lucide-react": "^1.47.0",
-    "next": "16.3.5",
+    "framer-motion": "^13.4.4",
+    "lucide-react": "^1.48.0",
+    "next": "16.3.6",
     "react": "^19",
     "react-dom": "^19",
     "sonner": "^2.0.8"
@@ -25,7 +25,7 @@
     "@types/react": "^19",
     "@types/react-dom": "^19",
     "eslint": "^10",
-    "eslint-config-next": "16.3.5",
+    "eslint-config-next": "16.3.6",
     "postcss": "^8",
     "tailwindcss": "^4.3.3",
     "typescript": "^7"
